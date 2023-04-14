@@ -1,0 +1,13 @@
+
+Запуск проекта
+1) npm i 
+2) npm run dev
+
+
+Создание проекта
+1) Установка node js
+2) Установка npm
+3)npm create vite@latest
+4) Вводите название проекта -> React -> React+js
+5) npm install primereact primeicons (Устанока UI-кита и иконок)
+6) npm i axios (Устанока axios)

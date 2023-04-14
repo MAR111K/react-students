@@ -1,0 +1,15 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+.form__item {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.form__button {
+  width: 20%;
+}
